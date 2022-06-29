@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @Ax01010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ax01010/Ax01010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -100,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 ## Recent Blog Posts  
 
 
-### island-orchestration  
+### island-orchestration (https://ctf-writeups.yourhacker.in/2022/06/island-orchestration.html)  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
