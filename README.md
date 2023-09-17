@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YashxPredator/">
+<a href="https://github.com/Ax01010/">
   <img src="https://github-readme-stats.vercel.app/api?username=YashxPredator&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashxPredator&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="YashxPredator"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashxPredator"></img>
@@ -146,9 +146,9 @@
 
 <ul>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow%20%40YashxPredator)](https://twitter.com/YashXPredator)  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Follow%20%40YashxPredator)](https://www.linkedin.com/in/yash-kumar-predator)  
-[![tryhackme](https://img.shields.io/badge/tryhackme-0077B5?style=for-the-badge&logo=tryhackme&logoColor=white&label=Follow%20%40YashxPredator)](https://tryhackme.com/p/predatorHunterX)  
+[![Twitter](https://twitter.com/Axs0428)  
+[![Linkedin](https://www.linkedin.com/in/ashutosh-sharma-a8a813220/)  
+[![tryhackme](https://tryhackme.com/p/Ashu2512)  
 
 </ul>
 </div>
