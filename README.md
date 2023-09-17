@@ -1,10 +1,9 @@
-<h1 align="center"><b>Hi , I'm ASHUTOSH </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm ASHUTOSH (AX01010) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <a href="https://github.com/YashxPredator/YashxPredator"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Ax01010"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>  
-    <a href="https://github.com/YashxPredator/YashxPredator/stargazers"><img src="https://img.shields.io/github/stars/YashxPredator/YashxPredator.svg"></a>
-    <a href="https://github.com/YashxPredator/YashxPredator/network/members"><img src="https://img.shields.io/github/forks/YashxPredator/YashxPredator.svg?color=blue"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=YashxPredator.YashxPredator" alt="visitors"/>
+    <a href="https://github.com/Ax01010/ax01010/stargazers"><img src="https://img.shields.io/github/stars/YashxPredator/YashxPredator.svg"></a>
+    <a href="https://github.com/Ax01010/ax01010/network/members"><img src="https://img.shields.io/github/forks/YashxPredator/YashxPredator.svg?color=blue"></a>
 <h3 align="center">Securing Digital Realms: Ethical Hacker and Cybersecurity Enthusiast, Penetration Testing, Threat Analysis</h3>
 
 </p>  
@@ -14,7 +13,7 @@
 
 <!--   my-ticker --> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=false&width=1000&lines=Hi+there+👋,+I+am+Yash;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=false&width=1000&lines=Hi+there+👋,+I+am+Ax01010;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://www.icegif.com/wp-content/uploads/2022/12/icegif-498.gif" width = 40px></picture> **About me**
 
