@@ -8,7 +8,7 @@
 
 </p>  
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/3166727.jpg" alt="animated" />
+  <img src="https://cdn.pixabay.com/photo/2020/07/10/05/16/binary-5389555_960_720.png" alt="animated" />
 </p>
 
 <!--   my-ticker --> 
