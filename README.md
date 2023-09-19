@@ -145,12 +145,11 @@
 <div align='left'>
 
 <ul>
-
-[![Twitter](https://twitter.com/Axs0428)  
-[![Linkedin](https://www.linkedin.com/in/ashutosh-sharma-a8a813220/)  
-[![tryhackme](https://tryhackme.com/p/Ashu2512)  
-
+  <li><a href="https://twitter.com/Axs0428">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/ashutosh-sharma-a8a813220/">LinkedIn</a></li>
+  <li><a href="https://tryhackme.com/p/Ashu2512">TryHackMe</a></li>
 </ul>
+
 </div>
 
 <br>
